@@ -3,9 +3,7 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
-    <uses-sdk
-        android:minSdkVersion="8"
-        android:targetSdkVersion="15" />
+    <uses-sdk android:minSdkVersion="8" />
 
     <application
         android:icon="@drawable/blender_animation_icon"
@@ -40,5 +38,12 @@
          </activity>
       
     </application>
-
+<uses-permission android:name="android.permission.INTERNET" >
+    </uses-permission>
+     <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" >
+         </uses-permission>
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+        </uses-permission>
+        <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" >
+        </uses-permission>
 </manifest>
