@@ -15,7 +15,7 @@ Installation
    proxy settings.  This is not required for normal direct internet
    connections.
 #. Download the latest Blenderanimation.apk from `here
-   <http://www.it.iitb.ac.in/AakashApps/repo/Educational_Content.apk>`_ and
+   <http://www.it.iitb.ac.in/AakashApps/repo/Blender_Animation.apk>`_ and
    install it on your Aakash.
 #. After opening the Blender animation application it will ask for downloading.Click on 'Ok' to download
    some demo animations.
